@@ -30,12 +30,11 @@ _Tech: React, Angular, GatsbyJS, Node.js, JavaScript, HTML5, CSS3._
 [![Twitter: Blundert](https://img.shields.io/twitter/follow/Blundert?style=social)](https://twitter.com/Blundert)
 [![Linkedin: matteogranzotto](https://img.shields.io/badge/-matteogranzotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteogranzotto/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub BLundert](https://img.shields.io/github/followers/Blundert?label=follow&style=social)](https://github.com/Blundert)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blundert" alt="blundert" /> </p>
 
 ---- 
 
 <p align="left">
-<a href="https://matteogranzotto.com"> matteogranzotto.com </a>
+<a href="https://matteogranzotto.com"> ⛓ matteogranzotto.com </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Blundert/Blundert/master/assets/footer.png" />
