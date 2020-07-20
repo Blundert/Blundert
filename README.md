@@ -19,6 +19,7 @@ _Tech: React, Angular, GatsbyJS, Node.js, JavaScript, HTML5, CSS3._
 
 <h3> ✨ Blog <h3> 
 
+- [i18n con solo React Hooks](https://wavelop.com/it/story/i18n-con-solo-react-hooks/)
 - [Fast sites with GatsbyJS](https://wavelop.com/it/story/fast-sites-with-gatsby-js/)
 - [Wavelop è partner del DevFest Veneto 2019](https://wavelop.com/it/story/wavelop-partner-del-dev-fest-veneto-2019/)
 - [Wavelop Workshop: Decision Making for software development](https://wavelop.com/it/story/wavelop-workshop-decision-making-for-software-development-di-francesco-strazzullo/)
