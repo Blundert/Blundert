@@ -1,0 +1,36 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/matteogranzotto/"
+weight = 1
+
+[social.params]
+icon = "brand-linkedin"
+
+
+[[social]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://mastodon.uno/@blundert"
+weight = 3
+
+[social.params]
+icon = "brand-mastodon"
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/Blundert"
+weight = 2
+
+[social.params]
+icon = "brand-github"
