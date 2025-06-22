@@ -87,7 +87,7 @@ admin = ""
 adminLabel = ""
 
 [comments.utterances]
-repo = "https://github.com/Blundert/Blundert"
+repo = "Blundert/Blundert"
 issueTerm = "pathname"
 label = ""
 
