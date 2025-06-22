@@ -5,56 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f09a386-2dba-4f1f-a16a-d60831faae31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.devcontainer/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.devcontainer/devcontainer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/update-theme.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Blundert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/archive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/brand-linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/brand-mastodon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/_languages.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/markup.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/menu.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/module.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/permalinks.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/_default/related.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/categories/quattro-chiacchiere/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/categories/quattro-chiacchiere/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/page/archives/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/page/links/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/page/search/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/hello-world/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/hello-world/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/hello-world/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/post/hello-world/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/hello-world/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/hello-world/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/image-gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/image-gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/image-gallery/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/markdown-syntax/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/math-typesetting/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/shortcodes/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/post/shortcodes/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/sidebar/left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/widget/archives.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750608364657</updated>
       <workItem from="1750608365697" duration="10770000" />
-      <workItem from="1750620036575" duration="196000" />
+      <workItem from="1750620036575" duration="816000" />
     </task>
     <servers />
   </component>
