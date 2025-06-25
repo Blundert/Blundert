@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f09a386-2dba-4f1f-a16a-d60831faae31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/layouts/_deafult/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/head/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/categories/indieweb/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/categories/indieweb/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/indieweb/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/indieweb/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/indieweb/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/post/indieweb/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_deafult/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_deafult/baseof.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/sidebar/left.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/sidebar/left.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2ys1Fded2mvEQ2EjVWTeQnWrJ71" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,23 +42,23 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "develop",
-    "last_opened_file_path": "/Users/matteo.granzotto/Code/Personal/Blundert",
+    "last_opened_file_path": "/Users/matteo.granzotto/Code/Personal/Blundert/content/post/indieweb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/post/indieweb" />
+      <recent name="$PROJECT_DIR$/content/post" />
+      <recent name="$PROJECT_DIR$/content/categories/indieweb" />
       <recent name="$PROJECT_DIR$/content/categories/quattro-chiacchiere" />
       <recent name="$PROJECT_DIR$/content/post/hello-world" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/layouts/partials/widget" />
-      <recent name="$PROJECT_DIR$/layouts/partials/sidebar" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/example" />
@@ -69,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1750608364657</updated>
       <workItem from="1750608365697" duration="10770000" />
-      <workItem from="1750620036575" duration="4455000" />
+      <workItem from="1750620036575" duration="6348000" />
+      <workItem from="1750877531013" duration="3307000" />
     </task>
     <servers />
   </component>

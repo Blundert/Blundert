@@ -14,7 +14,7 @@ lastUpdated = "02/01/2006 15:04"
 
 [sidebar]
 emoji = ""
-subtitle = "Blundert è Matteo Granzotto. Founder di <a href=\"https://wavelop.com\">Wavelop</a>."
+subtitle = "Blundert è <a class=\"h-card\" href=\"https://blog.matteogranzotto.com/\">Matteo Granzotto</a>. Founder di <a href=\"https://wavelop.com\">Wavelop</a>."
 
 [sidebar.avatar]
 enabled = true
