@@ -2,14 +2,27 @@
     You can add your own custom styles here.
 */
 
+:root {
+
+  --button-bg-color: #dadada;
+  --button-bg-color-hover: #eaeaea;
+
+  &[data-scheme="dark"] {
+    --button-bg-color: #303030;
+    --button-bg-color-hover: #5d5d5d;
+  }
+}
+
+
 .button, button {
   padding: 1rem;
   border-radius: 4px;
   border-width: 0;
-  background-color: var(--code-background-color);
+  background-color: var(--button-bg-color);
+  color: var(--card-text-color-main);
 
   &:hover {
-    background-color: var(--accent-color-text);
+    background-color: var(--button-bg-color-hover);
     cursor: pointer;
   }
 }
