@@ -6,6 +6,11 @@ date: 2025-06-22 12:00:00+0200
 # image: cover.jpg
 categories:
     - Quattro chiacchiere
+
+comments:
+  host: mastodon.uno
+  username: blundert
+  id: 114756483648018069
 ---
 
 Ciao a tutti! 
