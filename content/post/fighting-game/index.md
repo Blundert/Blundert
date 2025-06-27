@@ -1,7 +1,7 @@
 
 ---
 title: I piacchaduro
-description: I piacchiaduro sono uno dei mie passatempo preferiti
+description: I piacchiaduro sono uno dei miei passatempo preferiti
 slug: i-picchidauro
 date: 2025-06-27 23:00:00+0200
 image: cover.jpg
