@@ -21,8 +21,8 @@ A livello software, invece, lascia un po' a desiderare.
 Ho scoperto un firmware custom che gli rende giustizia. 
 Link alla repo del firmware: https://github.com/crosspoint-reader/crosspoint-reader?tab=readme-ov-file 
 
-![1](1.jpg)
+![1](1.jpeg)
 
-![2](2.jpg)
+![2](2.jpeg)
 
-![3](3.jpg)
+![3](3.jpeg)
