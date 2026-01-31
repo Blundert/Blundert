@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IndieWeb on Blundert</title><link>https://blog.matteogranzotto.com/categories/indieweb/</link><description>Recent content in IndieWeb on Blundert</description><generator>Hugo -- gohugo.io</generator><language>it-IT</language><lastBuildDate>Fri, 27 Jun 2025 22:00:00 +0200</lastBuildDate><atom:link href="https://blog.matteogranzotto.com/categories/indieweb/index.xml" rel="self" type="application/rss+xml"/><item><title>Commenti con Mastodon</title><link>https://blog.matteogranzotto.com/post/commenti-con-mastodon/</link><pubDate>Fri, 27 Jun 2025 22:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/commenti-con-mastodon/</guid><description>&lt;img src="https://blog.matteogranzotto.com/post/commenti-con-mastodon/cover.png" alt="Featured image of post Commenti con Mastodon" /&gt;&lt;p&gt;Sicuramente nessuno commenterà in questo blog però continuando a impostare il tutto con i principi dell&amp;rsquo;IndieWeb ho pensato di impostare i commenti con Mastodon.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://joinmastodon.org/it" target="_blank" rel="noopener"
+&gt;Mastodon&lt;/a&gt; è un social network decentralizzato, opensource e non governato dalle corporate.&lt;/p&gt;
+&lt;p&gt;Ho seguito la seguente guida per configurare i commenti: &lt;a class="link" href="https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/" target="_blank" rel="noopener"
+&gt;https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ora mi basta condivide il post su Mastodon e poi impostare nel frontmatter del post il codice identificativo et voilà:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen.png"
+width="3680"
+height="2382"
+srcset="https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen_hu_826678f24aa34e2c.png 480w, https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen_hu_a8dbd1d0525aafa3.png 1024w"
+loading="lazy"
+alt="La pagina del post Hello World con i commenti"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="370px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Il post è il seguente: &lt;a class="link" href="https://blog.matteogranzotto.com/post/hello-world/" target="_blank" rel="noopener"
+&gt;https://blog.matteogranzotto.com/post/hello-world/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>IndieWeb</title><link>https://blog.matteogranzotto.com/post/indieweb/</link><pubDate>Wed, 25 Jun 2025 12:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/indieweb/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Cosa è l&amp;rsquo;IndieWeb?&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;IndieWeb è il web delle persone, l&amp;rsquo;alternativa “indipendente” al “web delle corporate”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I principi fondamentali:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I tuoi contenuti ti appartengono: Quando pubblichi qualcosa sul web, questo è tuo, non è di una qualche aziedna. Aderendo a IndieWeb, mantieni il controllo del destino dei tuoi contenuti.&lt;/li&gt;
+&lt;li&gt;Tu sei connesso in modo migliore: I tuoi articoli possono essere disponibili a tutti i servizi, non solo ad uno.&lt;/li&gt;
+&lt;li&gt;Sei tu alla guida: Puoi pubblicare ogni cosa tu voglia, nei formati che preferisci, senza censure né qualcuno che ti controlli. Inoltre, condividi permalink e funzioneranno sempre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Penso di essere allineato con questo modo di fare web e voglio cercare di adottare questi ideali in questo blog!&lt;/p&gt;</description></item></channel></rss>

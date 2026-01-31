@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Blundert</title><link>https://blog.matteogranzotto.com/post/</link><description>Recent content in Posts on Blundert</description><generator>Hugo -- gohugo.io</generator><language>it-IT</language><lastBuildDate>Sat, 31 Jan 2026 18:00:00 +0200</lastBuildDate><atom:link href="https://blog.matteogranzotto.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Xteink X4</title><link>https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/</link><pubDate>Sat, 31 Jan 2026 18:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/</guid><description>&lt;img src="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/cover.jpg" alt="Featured image of post Xteink X4" /&gt;&lt;p&gt;Di recente ho acquistato un &lt;a class="link" href="https://www.xteink.com/" target="_blank" rel="noopener"
+&gt;Xteink X4&lt;/a&gt;.
+Il dispositivo in se è interessante e sembra fatto abbastanza bene.
+A livello software, invece, lascia un po&amp;rsquo; a desiderare.
+Ho scoperto un firmware custom che gli rende giustizia.
+Link alla repo del firmware: &lt;a class="link" href="https://github.com/crosspoint-reader/crosspoint-reader?tab=readme-ov-file" target="_blank" rel="noopener"
+&gt;https://github.com/crosspoint-reader/crosspoint-reader?tab=readme-ov-file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/1.jpeg"
+width="4032"
+height="3024"
+srcset="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/1_hu_6de790d9aaed8d5e.jpeg 480w, https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/1_hu_a16d40cc0d82847c.jpeg 1024w"
+loading="lazy"
+alt="1"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/2.jpeg"
+width="4032"
+height="3024"
+srcset="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/2_hu_a8bc3d684e222807.jpeg 480w, https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/2_hu_7f5aed4841be0f15.jpeg 1024w"
+loading="lazy"
+alt="2"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/3.jpeg"
+width="3024"
+height="3132"
+srcset="https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/3_hu_eaa1ec7308e94c4d.jpeg 480w, https://blog.matteogranzotto.com/post/xteink-x4-tips-and-tricks/3_hu_6694fb07402b8d58.jpeg 1024w"
+loading="lazy"
+alt="3"
+class="gallery-image"
+data-flex-grow="96"
+data-flex-basis="231px"
+&gt;&lt;/p&gt;</description></item><item><title>I piacchaduro</title><link>https://blog.matteogranzotto.com/post/i-picchidauro/</link><pubDate>Fri, 27 Jun 2025 23:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/i-picchidauro/</guid><description>&lt;img src="https://blog.matteogranzotto.com/post/i-picchidauro/cover.jpg" alt="Featured image of post I piacchaduro" /&gt;&lt;p&gt;Oramai da un po&amp;rsquo; di anni il mio interesse da videogiocatore è virato verso i piacchiaduro.&lt;/p&gt;
+&lt;p&gt;Ecco un assaggio della mia collezione:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/i-picchidauro/cover.jpg"
+width="2960"
+height="4364"
+srcset="https://blog.matteogranzotto.com/post/i-picchidauro/cover_hu_890a7a4330797cd2.jpg 480w, https://blog.matteogranzotto.com/post/i-picchidauro/cover_hu_50ff901f01fbc77a.jpg 1024w"
+loading="lazy"
+alt="La mia collezione di picchiaduro"
+class="gallery-image"
+data-flex-grow="67"
+data-flex-basis="162px"
+&gt;&lt;/p&gt;</description></item><item><title>Commenti con Mastodon</title><link>https://blog.matteogranzotto.com/post/commenti-con-mastodon/</link><pubDate>Fri, 27 Jun 2025 22:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/commenti-con-mastodon/</guid><description>&lt;img src="https://blog.matteogranzotto.com/post/commenti-con-mastodon/cover.png" alt="Featured image of post Commenti con Mastodon" /&gt;&lt;p&gt;Sicuramente nessuno commenterà in questo blog però continuando a impostare il tutto con i principi dell&amp;rsquo;IndieWeb ho pensato di impostare i commenti con Mastodon.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://joinmastodon.org/it" target="_blank" rel="noopener"
+&gt;Mastodon&lt;/a&gt; è un social network decentralizzato, opensource e non governato dalle corporate.&lt;/p&gt;
+&lt;p&gt;Ho seguito la seguente guida per configurare i commenti: &lt;a class="link" href="https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/" target="_blank" rel="noopener"
+&gt;https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ora mi basta condivide il post su Mastodon e poi impostare nel frontmatter del post il codice identificativo et voilà:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen.png"
+width="3680"
+height="2382"
+srcset="https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen_hu_826678f24aa34e2c.png 480w, https://blog.matteogranzotto.com/post/commenti-con-mastodon/screen_hu_a8dbd1d0525aafa3.png 1024w"
+loading="lazy"
+alt="La pagina del post Hello World con i commenti"
+class="gallery-image"
+data-flex-grow="154"
+data-flex-basis="370px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Il post è il seguente: &lt;a class="link" href="https://blog.matteogranzotto.com/post/hello-world/" target="_blank" rel="noopener"
+&gt;https://blog.matteogranzotto.com/post/hello-world/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>IndieWeb</title><link>https://blog.matteogranzotto.com/post/indieweb/</link><pubDate>Wed, 25 Jun 2025 12:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/indieweb/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Cosa è l&amp;rsquo;IndieWeb?&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;IndieWeb è il web delle persone, l&amp;rsquo;alternativa “indipendente” al “web delle corporate”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I principi fondamentali:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I tuoi contenuti ti appartengono: Quando pubblichi qualcosa sul web, questo è tuo, non è di una qualche aziedna. Aderendo a IndieWeb, mantieni il controllo del destino dei tuoi contenuti.&lt;/li&gt;
+&lt;li&gt;Tu sei connesso in modo migliore: I tuoi articoli possono essere disponibili a tutti i servizi, non solo ad uno.&lt;/li&gt;
+&lt;li&gt;Sei tu alla guida: Puoi pubblicare ogni cosa tu voglia, nei formati che preferisci, senza censure né qualcuno che ti controlli. Inoltre, condividi permalink e funzioneranno sempre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Penso di essere allineato con questo modo di fare web e voglio cercare di adottare questi ideali in questo blog!&lt;/p&gt;</description></item><item><title>Hello world</title><link>https://blog.matteogranzotto.com/post/hello-world/</link><pubDate>Sun, 22 Jun 2025 12:00:00 +0200</pubDate><guid>https://blog.matteogranzotto.com/post/hello-world/</guid><description>&lt;p&gt;Ciao a tutti!&lt;/p&gt;
+&lt;p&gt;Sono Matteo Granzotto!
+Apro questo sito perché voglio centralizzare i miei pensieri online.&lt;/p&gt;</description></item></channel></rss>
